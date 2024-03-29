@@ -1,7 +1,7 @@
 
 # Thyroid Disease Detection
 ### Project Overview:
-This project is part of the Data Science internship at iNeuron. The internship started on September 1, 2023, focusing on machine learning techniques. The goal of this project is to develop a model for detecting thyroid disease using machine learning algorithms.
+This project is part of the Machine Learning internship at iNeuron. The internship started on September 1, 2023, focusing on machine learning techniques. The goal of this project is to develop a model for detecting thyroid disease using machine learning algorithms.
 
 ### Project Name:
 Thyroid Disease Detection
@@ -19,4 +19,9 @@ Model Evaluation: Assessing the performance of the trained model using appropria
 Deployment: Integrating the model into a deployable application or service for practical use.
 Selected Model:
 After performing extensive model selection, Random Forest emerged as the most suitable algorithm for thyroid disease classification due to its robustness and high performance.
+
+###  Contributors:
+Sahdev Saini
+###  License:
+This project is licensed under the MIT License.
 
