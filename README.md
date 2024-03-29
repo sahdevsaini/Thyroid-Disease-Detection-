@@ -1,7 +1,7 @@
 
 # Thyroid Disease Detection
 ### Project Overview:
-This project is part of the Machine Learning internship at iNeuron. The internship started on September 1, 2023, focusing on machine learning techniques. The goal of this project is to develop a model for detecting thyroid disease using machine learning algorithms.
+This project is part of the Machine Learning internship at iNeuron.ai. The internship started on September 1, 2023, focusing on machine learning techniques. The goal of this project is to develop a model for detecting thyroid disease using machine learning algorithms.
 
 ### Project Name:
 Thyroid Disease Detection
