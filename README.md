@@ -20,6 +20,28 @@ Deployment: Integrating the model into a deployable application or service for p
 Selected Model:
 After performing extensive model selection, Random Forest emerged as the most suitable algorithm for thyroid disease classification due to its robustness and high performance.
 
+### Dataset 📀
+
+### Technology �
+Machine Learning
+### Domain 🏥
+Healthcare
+### Project Difficulty level 🥇
+Advanced
+### Programming Language 🐍
+Python
+### Python Libraries
+Numpy,Pandas,Matplotlib,
+Decision Trees, Random Forest, Support Vector Machines (SVM), Logistic Regression
+### Tools 🛠
+Jupyter Notebook, MS
+Excel, FLask,
+### LinkedIn Post 📲
+https://t.ly/dqCAA
+
+### Youtube Video 🎬
+https://youtu.be/H7BesUSdm4o?si=vdbMPCwu1y-QBa1I
+
 ###  Contributors:
 Sahdev Saini
 ###  License:
