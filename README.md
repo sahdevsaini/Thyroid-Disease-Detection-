@@ -21,7 +21,7 @@ Selected Model:
 After performing extensive model selection, Random Forest emerged as the most suitable algorithm for thyroid disease classification due to its robustness and high performance.
 
 ### Dataset 📀
-
+https://github.com/sahdevsaini/Thyroid-Disease-Detection-/tree/main/Data
 ### Technology �
 Machine Learning
 ### Domain 🏥
